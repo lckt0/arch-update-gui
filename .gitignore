@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.yedek*
+*.bak
+*.orig
+/pkg/
+/src/
+*.pkg.tar.*
+*.tar.gz
+.env

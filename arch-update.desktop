@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Arch-Update
+Comment=Update popup for arch-update (arch-update-gui)
+Icon=cachy-update-blue
+Type=Application
+Terminal=false
+Exec=arch-update-gui
+Categories=Utility;System;
